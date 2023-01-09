@@ -163,6 +163,7 @@ const user = {
     return '메롱'
   }
 }
+
 user.hasOwnProperty() // 가짜 
 
 // user.hasOwnProperty()

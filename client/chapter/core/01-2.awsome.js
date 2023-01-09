@@ -17,6 +17,7 @@ function sum(a,b){
 
 // 함수는 this 나를 호출한 대상을 this로 잡는다.
 
+
 sum(10,30)
 
 console.log('--------------');
