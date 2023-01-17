@@ -106,6 +106,23 @@ document.querySelector('.swiper-wrapper').insertAdjacentHTML('beforeend',temp);
 
 // console.log(age);
 
+
+let temp2 = friends.map((item)=>{
+  return `<li>${item.name}</li>`
+})
+
+
+temp2.forEach((item)=>{
+  document.body.insertAdjacentHTML('beforeend',item);
+})
+
+
+
+
+// let aa = data.reduce((acc, cur) => ({ ...acc, ...cur }),{name:'tiger'});
+
+
+
 /* 
 let jobs = [];
 
