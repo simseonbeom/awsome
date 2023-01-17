@@ -14,18 +14,19 @@ nullish
 
 
 
+forEach, reduce, map
 
-this
+this / 메서드
 
 객체  / 객체 생성자  / 깊은복사 or 얕은복사 
 
-메서드
+
 
 dom 제어와 노드 
 
 프로토타입 / 인스턴스 / 스테틱 
 
-reduce, fill, map
+
 
 memoization
 
